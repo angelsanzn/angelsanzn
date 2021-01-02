@@ -8,9 +8,9 @@ What about you?
 
 ## Get in touch
 
-[<img align="left" alt="codeSTACKr | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | GitLab" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Ángel Sanz | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ángel Sanz | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ángel Sanz | GitLab" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
 [twitter]: https://twitter.com/angelsanzn
 [linkedin]: https://www.linkedin.com/in/angelsanzn
