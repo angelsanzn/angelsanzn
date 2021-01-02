@@ -4,8 +4,9 @@ I run along teams and companies helping them make a better return on their inves
 
 Advising and mentoring on [continuous delivery](https://continuousdelivery.com/), technical excellence, sustainable high performance, engineering management as well as DevOps & Lean principles and practices.
 
+What about you?
 
-## What about you? Get in touch
+## Get in touch
 
 [<img align="left" alt="codeSTACKr | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
